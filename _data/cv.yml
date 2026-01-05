@@ -45,12 +45,12 @@
   type: nested_list
   contents:
     - title: Computational Neuroscience
-      # items:
-      #   - Description 1.
+      items:
+        - Description 1.
       #   - Description 2.
     - title: Machine Learning and AI
-      # items:
-      #   - Description 1.
+      items:
+        - Description 1.
       #   - Description 2.
 
 # - title: Other Interests

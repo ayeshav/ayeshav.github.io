@@ -7,10 +7,11 @@
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
+email: ayeshavermani@gmail.com # your email address
+scholar_userid: r_bQ0pkAAAAJ # your Google Scholar ID
 bluesky_url: https://bsky.app/profile/ayeshavermani.bsky.social # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: ayeshavermani@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -34,7 +35,6 @@ email: ayeshavermani@gmail.com # your email address
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: r_bQ0pkAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
